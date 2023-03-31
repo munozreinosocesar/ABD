@@ -21,7 +21,7 @@ Proyecto final de la asignatura Administración de Bases de Datos en la Universi
 
 -----
 
-Final project for the subject "Database Administration" at the University of Granada (UGR)
+Final project for the course "Database Administration" at the University of Granada (UGR)
 
 **Management of a supermarket chain, Badulake Inc. The DBMS will be used to manage sales, available products, and funds available in bank accounts.**
 
